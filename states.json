@@ -1,0 +1,750 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 603,
+      "name": "Berat County",
+      "country_id": 3
+    },
+    {
+      "id": 629,
+      "name": "Berat District",
+      "country_id": 3
+    },
+    {
+      "id": 607,
+      "name": "Bulqizë District",
+      "country_id": 3
+    },
+    {
+      "id": 618,
+      "name": "Delvinë District",
+      "country_id": 3
+    },
+    {
+      "id": 608,
+      "name": "Devoll District",
+      "country_id": 3
+    },
+    {
+      "id": 610,
+      "name": "Dibër County",
+      "country_id": 3
+    },
+    {
+      "id": 605,
+      "name": "Dibër District",
+      "country_id": 3
+    },
+    {
+      "id": 632,
+      "name": "Durrës County",
+      "country_id": 3
+    },
+    {
+      "id": 639,
+      "name": "Durrës District",
+      "country_id": 3
+    },
+    {
+      "id": 598,
+      "name": "Elbasan County",
+      "country_id": 3
+    },
+    {
+      "id": 631,
+      "name": "Fier County",
+      "country_id": 3
+    },
+    {
+      "id": 627,
+      "name": "Fier District",
+      "country_id": 3
+    },
+    {
+      "id": 604,
+      "name": "Gjirokastër County",
+      "country_id": 3
+    },
+    {
+      "id": 621,
+      "name": "Gjirokastër District",
+      "country_id": 3
+    },
+    {
+      "id": 617,
+      "name": "Gramsh District",
+      "country_id": 3
+    },
+    {
+      "id": 600,
+      "name": "Has District",
+      "country_id": 3
+    },
+    {
+      "id": 594,
+      "name": "Kavajë District",
+      "country_id": 3
+    },
+    {
+      "id": 628,
+      "name": "Kolonjë District",
+      "country_id": 3
+    },
+    {
+      "id": 630,
+      "name": "Korçë County",
+      "country_id": 3
+    },
+    {
+      "id": 597,
+      "name": "Korçë District",
+      "country_id": 3
+    },
+    {
+      "id": 614,
+      "name": "Krujë District",
+      "country_id": 3
+    },
+    {
+      "id": 612,
+      "name": "Kuçovë District",
+      "country_id": 3
+    },
+    {
+      "id": 601,
+      "name": "Kukës County",
+      "country_id": 3
+    },
+    {
+      "id": 623,
+      "name": "Kukës District",
+      "country_id": 3
+    },
+    {
+      "id": 622,
+      "name": "Kurbin District",
+      "country_id": 3
+    },
+    {
+      "id": 609,
+      "name": "Lezhë County",
+      "country_id": 3
+    },
+    {
+      "id": 595,
+      "name": "Lezhë District",
+      "country_id": 3
+    },
+    {
+      "id": 596,
+      "name": "Librazhd District",
+      "country_id": 3
+    },
+    {
+      "id": 599,
+      "name": "Lushnjë District",
+      "country_id": 3
+    },
+    {
+      "id": 602,
+      "name": "Malësi e Madhe District",
+      "country_id": 3
+    },
+    {
+      "id": 637,
+      "name": "Mallakastër District",
+      "country_id": 3
+    },
+    {
+      "id": 635,
+      "name": "Mat District",
+      "country_id": 3
+    },
+    {
+      "id": 638,
+      "name": "Mirditë District",
+      "country_id": 3
+    },
+    {
+      "id": 619,
+      "name": "Peqin District",
+      "country_id": 3
+    },
+    {
+      "id": 625,
+      "name": "Përmet District",
+      "country_id": 3
+    },
+    {
+      "id": 606,
+      "name": "Pogradec District",
+      "country_id": 3
+    },
+    {
+      "id": 620,
+      "name": "Pukë District",
+      "country_id": 3
+    },
+    {
+      "id": 624,
+      "name": "Sarandë District",
+      "country_id": 3
+    },
+    {
+      "id": 611,
+      "name": "Shkodër County",
+      "country_id": 3
+    },
+    {
+      "id": 626,
+      "name": "Shkodër District",
+      "country_id": 3
+    },
+    {
+      "id": 593,
+      "name": "Skrapar District",
+      "country_id": 3
+    },
+    {
+      "id": 616,
+      "name": "Tepelenë District",
+      "country_id": 3
+    },
+    {
+      "id": 615,
+      "name": "Tirana County",
+      "country_id": 3
+    },
+    {
+      "id": 633,
+      "name": "Tirana District",
+      "country_id": 3
+    },
+    {
+      "id": 636,
+      "name": "Tropojë District",
+      "country_id": 3
+    },
+    {
+      "id": 634,
+      "name": "Vlorë County",
+      "country_id": 3
+    },
+    {
+      "id": 613,
+      "name": "Vlorë District",
+      "country_id": 3
+    },
+    {
+      "id": 2895,
+      "name": "Amazonas",
+      "country_id": 48
+    },
+    {
+      "id": 2890,
+      "name": "Antioquia",
+      "country_id": 48
+    },
+    {
+      "id": 2881,
+      "name": "Arauca",
+      "country_id": 48
+    },
+    {
+      "id": 2900,
+      "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "country_id": 48
+    },
+    {
+      "id": 2880,
+      "name": "Atlántico",
+      "country_id": 48
+    },
+    {
+      "id": 4921,
+      "name": "Bogotá D.C.",
+      "country_id": 48
+    },
+    {
+      "id": 2893,
+      "name": "Bolívar",
+      "country_id": 48
+    },
+    {
+      "id": 2903,
+      "name": "Boyacá",
+      "country_id": 48
+    },
+    {
+      "id": 2887,
+      "name": "Caldas",
+      "country_id": 48
+    },
+    {
+      "id": 2891,
+      "name": "Caquetá",
+      "country_id": 48
+    },
+    {
+      "id": 2892,
+      "name": "Casanare",
+      "country_id": 48
+    },
+    {
+      "id": 2884,
+      "name": "Cauca",
+      "country_id": 48
+    },
+    {
+      "id": 2899,
+      "name": "Cesar",
+      "country_id": 48
+    },
+    {
+      "id": 2876,
+      "name": "Chocó",
+      "country_id": 48
+    },
+    {
+      "id": 2898,
+      "name": "Córdoba",
+      "country_id": 48
+    },
+    {
+      "id": 2875,
+      "name": "Cundinamarca",
+      "country_id": 48
+    },
+    {
+      "id": 2882,
+      "name": "Guainía",
+      "country_id": 48
+    },
+    {
+      "id": 2888,
+      "name": "Guaviare",
+      "country_id": 48
+    },
+    {
+      "id": 4871,
+      "name": "Huila",
+      "country_id": 48
+    },
+    {
+      "id": 2889,
+      "name": "La Guajira",
+      "country_id": 48
+    },
+    {
+      "id": 2886,
+      "name": "Magdalena",
+      "country_id": 48
+    },
+    {
+      "id": 2878,
+      "name": "Meta",
+      "country_id": 48
+    },
+    {
+      "id": 2897,
+      "name": "Nariño",
+      "country_id": 48
+    },
+    {
+      "id": 2877,
+      "name": "Norte de Santander",
+      "country_id": 48
+    },
+    {
+      "id": 2896,
+      "name": "Putumayo",
+      "country_id": 48
+    },
+    {
+      "id": 2874,
+      "name": "Quindío",
+      "country_id": 48
+    },
+    {
+      "id": 2879,
+      "name": "Risaralda",
+      "country_id": 48
+    },
+    {
+      "id": 2901,
+      "name": "Santander",
+      "country_id": 48
+    },
+    {
+      "id": 2902,
+      "name": "Sucre",
+      "country_id": 48
+    },
+    {
+      "id": 2883,
+      "name": "Tolima",
+      "country_id": 48
+    },
+    {
+      "id": 2904,
+      "name": "Valle del Cauca",
+      "country_id": 48
+    },
+    {
+      "id": 2885,
+      "name": "Vaupés",
+      "country_id": 48
+    },
+    {
+      "id": 2894,
+      "name": "Vichada",
+      "country_id": 48
+    },
+    {
+      "id": 4023,
+      "name": "Andaman and Nicobar Islands",
+      "country_id": 101
+    },
+    {
+      "id": 4017,
+      "name": "Andhra Pradesh",
+      "country_id": 101
+    },
+    {
+      "id": 4024,
+      "name": "Arunachal Pradesh",
+      "country_id": 101
+    },
+    {
+      "id": 4027,
+      "name": "Assam",
+      "country_id": 101
+    },
+    {
+      "id": 4037,
+      "name": "Bihar",
+      "country_id": 101
+    },
+    {
+      "id": 4031,
+      "name": "Chandigarh",
+      "country_id": 101
+    },
+    {
+      "id": 4040,
+      "name": "Chhattisgarh",
+      "country_id": 101
+    },
+    {
+      "id": 4033,
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "country_id": 101
+    },
+    {
+      "id": 4021,
+      "name": "Delhi",
+      "country_id": 101
+    },
+    {
+      "id": 4009,
+      "name": "Goa",
+      "country_id": 101
+    },
+    {
+      "id": 4030,
+      "name": "Gujarat",
+      "country_id": 101
+    },
+    {
+      "id": 4007,
+      "name": "Haryana",
+      "country_id": 101
+    },
+    {
+      "id": 4020,
+      "name": "Himachal Pradesh",
+      "country_id": 101
+    },
+    {
+      "id": 4029,
+      "name": "Jammu and Kashmir",
+      "country_id": 101
+    },
+    {
+      "id": 4025,
+      "name": "Jharkhand",
+      "country_id": 101
+    },
+    {
+      "id": 4026,
+      "name": "Karnataka",
+      "country_id": 101
+    },
+    {
+      "id": 4028,
+      "name": "Kerala",
+      "country_id": 101
+    },
+    {
+      "id": 4852,
+      "name": "Ladakh",
+      "country_id": 101
+    },
+    {
+      "id": 4019,
+      "name": "Lakshadweep",
+      "country_id": 101
+    },
+    {
+      "id": 4039,
+      "name": "Madhya Pradesh",
+      "country_id": 101
+    },
+    {
+      "id": 4008,
+      "name": "Maharashtra",
+      "country_id": 101
+    },
+    {
+      "id": 4010,
+      "name": "Manipur",
+      "country_id": 101
+    },
+    {
+      "id": 4006,
+      "name": "Meghalaya",
+      "country_id": 101
+    },
+    {
+      "id": 4036,
+      "name": "Mizoram",
+      "country_id": 101
+    },
+    {
+      "id": 4018,
+      "name": "Nagaland",
+      "country_id": 101
+    },
+    {
+      "id": 4013,
+      "name": "Odisha",
+      "country_id": 101
+    },
+    {
+      "id": 4011,
+      "name": "Puducherry",
+      "country_id": 101
+    },
+    {
+      "id": 4015,
+      "name": "Punjab",
+      "country_id": 101
+    },
+    {
+      "id": 4014,
+      "name": "Rajasthan",
+      "country_id": 101
+    },
+    {
+      "id": 4034,
+      "name": "Sikkim",
+      "country_id": 101
+    },
+    {
+      "id": 4035,
+      "name": "Tamil Nadu",
+      "country_id": 101
+    },
+    {
+      "id": 4012,
+      "name": "Telangana",
+      "country_id": 101
+    },
+    {
+      "id": 4038,
+      "name": "Tripura",
+      "country_id": 101
+    },
+    {
+      "id": 4022,
+      "name": "Uttar Pradesh",
+      "country_id": 101
+    },
+    {
+      "id": 4016,
+      "name": "Uttarakhand",
+      "country_id": 101
+    },
+    {
+      "id": 4853,
+      "name": "West Bengal",
+      "country_id": 101
+    },
+    {
+      "id": 2799,
+      "name": "Ampara District",
+      "country_id": 208
+    },
+    {
+      "id": 2816,
+      "name": "Anuradhapura District",
+      "country_id": 208
+    },
+    {
+      "id": 2790,
+      "name": "Badulla District",
+      "country_id": 208
+    },
+    {
+      "id": 2818,
+      "name": "Batticaloa District",
+      "country_id": 208
+    },
+    {
+      "id": 2798,
+      "name": "Central Province",
+      "country_id": 208
+    },
+    {
+      "id": 2815,
+      "name": "Colombo District",
+      "country_id": 208
+    },
+    {
+      "id": 2808,
+      "name": "Eastern Province",
+      "country_id": 208
+    },
+    {
+      "id": 2792,
+      "name": "Galle District",
+      "country_id": 208
+    },
+    {
+      "id": 2804,
+      "name": "Gampaha District",
+      "country_id": 208
+    },
+    {
+      "id": 2791,
+      "name": "Hambantota District",
+      "country_id": 208
+    },
+    {
+      "id": 2787,
+      "name": "Jaffna District",
+      "country_id": 208
+    },
+    {
+      "id": 2789,
+      "name": "Kalutara District",
+      "country_id": 208
+    },
+    {
+      "id": 2788,
+      "name": "Kandy District",
+      "country_id": 208
+    },
+    {
+      "id": 2797,
+      "name": "Kegalle District",
+      "country_id": 208
+    },
+    {
+      "id": 2793,
+      "name": "Kilinochchi District",
+      "country_id": 208
+    },
+    {
+      "id": 2805,
+      "name": "Mannar District",
+      "country_id": 208
+    },
+    {
+      "id": 2810,
+      "name": "Matale District",
+      "country_id": 208
+    },
+    {
+      "id": 2806,
+      "name": "Matara District",
+      "country_id": 208
+    },
+    {
+      "id": 2819,
+      "name": "Monaragala District",
+      "country_id": 208
+    },
+    {
+      "id": 2814,
+      "name": "Mullaitivu District",
+      "country_id": 208
+    },
+    {
+      "id": 2800,
+      "name": "North Central Province",
+      "country_id": 208
+    },
+    {
+      "id": 2817,
+      "name": "North Western Province",
+      "country_id": 208
+    },
+    {
+      "id": 2813,
+      "name": "Northern Province",
+      "country_id": 208
+    },
+    {
+      "id": 2794,
+      "name": "Nuwara Eliya District",
+      "country_id": 208
+    },
+    {
+      "id": 2812,
+      "name": "Polonnaruwa District",
+      "country_id": 208
+    },
+    {
+      "id": 2796,
+      "name": "Puttalam District",
+      "country_id": 208
+    },
+    {
+      "id": 2807,
+      "name": "Ratnapura district",
+      "country_id": 208
+    },
+    {
+      "id": 2803,
+      "name": "Sabaragamuwa Province",
+      "country_id": 208
+    },
+    {
+      "id": 2801,
+      "name": "Southern Province",
+      "country_id": 208
+    },
+    {
+      "id": 2795,
+      "name": "Trincomalee District",
+      "country_id": 208
+    },
+    {
+      "id": 2811,
+      "name": "Uva Province",
+      "country_id": 208
+    },
+    {
+      "id": 2809,
+      "name": "Vavuniya District",
+      "country_id": 208
+    },
+    {
+      "id": 2802,
+      "name": "Western Province",
+      "country_id": 208
+    }
+  ]
+}

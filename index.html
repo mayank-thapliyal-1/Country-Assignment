@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            margin: 10px;
+            padding-top: 10px;
+            color: darkcyan;
+        }
+
+        .box {
+            padding: 10px;
+            background-color: aquamarine;
+            display: inline-block;
+            width: 200px;
+            border: 1px solid cadetblue;
+            border-radius: 2px;
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Location</h1>
+    <form action="" id="sform">
+        <div class="box">
+            <label for="" class="menu-label">Country</label>
+            <br>
+            <select id="countries" name="first" class="multi-drop" width=500 style="width:150px;">
+                <option value="0">Select Country</option>
+            </select>
+        </div>
+        <div class="box">
+            <label for="" class="menu-label">State</label>
+            <br>
+            <select id="states" name="second" class="multi-drop" width=500 style="width:150px;">
+                <option value="0">Select State</option>
+            </select>
+        </div>
+        <div class="box">
+            <label for="" class="menu-label">City</label>
+            <br>
+            <select id="cities" name="third" class="multi-drop" width=500 style="width:150px;">
+                <option value="0">Select City</option>
+            </select>
+        </div>
+    </form>
+
+    <script src="jQuery.js"></script>
+    <script>
+        $(document).ready(async function () {
+
+            $.getJSON("countries.json", function (country) {
+                data = country.data
+                for (var i = 0; i < data.length; i++) {
+                    $('#countries').append('<option value="' + data[i].id + '">' + data[i].name + '</option>');
+                }
+            }).fail(function () {
+                console.log("An error has occurred.");
+            });
+
+            
+
+            $.getJSON("states.json", function (states) {
+                let data = states.data;
+                $('#countries').change(function () {
+                    country_code = $(this).val();
+                    $('#states').empty();
+                    $('#states').append('<option value="0"> Select State </option>');
+                    for (var i = 0; i < data.length; i++) {
+                        if (data[i].country_id == country_code) {
+                            $('#states').append('<option value="' + data[i].id + '">' + data[i].name + '</option>');
+                        }
+                    }
+                });
+            }).fail(function () {
+                console.log("An error has occurred.");
+            });
+
+
+            $.getJSON("cities.json", function (cities) {
+                let data = cities.data
+                $('#countries, #states').change(function () {
+                    state_code = $(this).val();
+                    $('#cities').empty();
+                    $('#cities').append('<option value="0"> Select City </option>');
+                    for (var i = 0; i < data.length; i++) {
+                        if (data[i].state_id == state_code) {
+                            $('#cities').append('<option value="' + data[i].id + '">' + data[i].name + '</option>');
+                        }
+                    }
+                });
+            }).fail(function () {
+                console.log("An error has occurred.");
+            });
+
+
+
+        });
+    </script>
+</body>
+
+</html>
